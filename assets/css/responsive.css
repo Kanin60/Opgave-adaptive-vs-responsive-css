@@ -1,0 +1,9 @@
+:root{
+
+}
+body{
+    background-color: hsl(1, 59vw, 41vw);
+}
+h1, h2{
+    font-size: calc(1.5rem + 1vw);
+}

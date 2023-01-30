@@ -1,0 +1,14 @@
+@media screen and (min-width: 769px) and (max-width: 1199px){
+    body{
+        background-color: hsl(210, 82%, 85%);
+    }
+    h1{
+        font-size: 1.7rem;
+    }
+    h2{
+        font-size: 1.3rem;
+    }
+    main p{
+        column-count: 2;
+    }
+}

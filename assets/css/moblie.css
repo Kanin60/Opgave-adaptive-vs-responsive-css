@@ -1,0 +1,18 @@
+@media screen and (min-width: 140px) and (max-width: 768px){
+    body{
+        background-color: hsl(207, 96%, 67%);
+        margin-left: 2px;
+    }
+    h1{
+        font-size: 1.5rem;
+    }
+    h2{
+        font-size: 1rem;
+    }
+    main p{
+        column-count: 1;
+    }
+    footer nav ul li a{
+        color: #fefefe;
+    }
+}
